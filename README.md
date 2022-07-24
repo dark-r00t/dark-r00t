@@ -30,6 +30,5 @@
                   `!988888888899fT|!^"'
                     `!9899fT|!^"'
                       `!^"'
-### Hi there 👋
 </pre>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-r00t#41" />
+### Hi there 👋
