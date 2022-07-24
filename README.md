@@ -32,5 +32,4 @@
                       `!^"'
 ### Hi there 👋
 </pre>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=dark-r00t&theme=flat#41" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-r00t#41" />
