@@ -1,4 +1,3 @@
-<img align="center" src="https://komarev.com/ghpvc/?username=dark-r00t" /><br>
 <pre>
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
@@ -31,4 +30,3 @@
                     `!9899fT|!^"'
                       `!^"'
 </pre>
-### Hi there 👋
